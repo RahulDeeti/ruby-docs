@@ -1,0 +1,5 @@
+
+objectname.class
+objectname.methods
+
+Range = from_number .. to_number
